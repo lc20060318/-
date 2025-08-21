@@ -48,7 +48,7 @@ defineSlots<{
    * 插入图片
    * 
    */
-  defalut:VNodeChild
+  default:VNodeChild
 }>();
 const props = defineProps<{
    /**
