@@ -1,0 +1,1 @@
+export { default as Dialogue } from './SimpleDialogue.vue';
